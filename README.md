@@ -77,7 +77,7 @@ else:
  ```
 
  
-#Output : 
+# Output : 
 ![image](https://user-images.githubusercontent.com/118680259/230283685-20b3c538-89f4-41c5-a099-9fc786444a5a.png)
 ![image](https://user-images.githubusercontent.com/118680259/230283742-2b189e69-6a7d-4f1a-858a-ef959c5025e9.png)
 
